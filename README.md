@@ -1,5 +1,6 @@
-
 # 📸 Instant Image Converter
+
+<img width="833" height="681" alt="image" src="https://github.com/user-attachments/assets/7d61d5a5-c042-4c04-8cd9-962b14bfa1e2" />
 
 Простий графічний застосунок на Python для швидкої конвертації зображень у різні формати з можливістю зміни якості та розміру.
 
