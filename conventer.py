@@ -90,7 +90,7 @@ class ImageConverterApp(ctk.CTk):
             self.preview_img = ctk.CTkImage(light_image=img, dark_image=img, size=img.size)
             self.preview.configure(image=self.preview_img, text="")
         except Exception as e:
-            self.preview.configure(text="Невозможно загрузить изображение", image="")
+            self.preview.configure(text="Неможливо завантажити зображення", image="")
 
     def convert(self):
         if not self.file_path:
